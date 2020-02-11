@@ -17,9 +17,9 @@ list.push(9);
 list.push(10);
 console.log(list);
 
-list.pop(10);
-list.pop(9);
-list.pop(8);
+list.pop();
+list.pop();
+list.pop();
 console.log(list);
 
 let myString = "I actually did it on my own, holy crap!"
